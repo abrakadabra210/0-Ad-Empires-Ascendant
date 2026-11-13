@@ -208,4 +208,4 @@ This repository serves as the official landing page for **0 A.D. Empires Ascenda
 **Get the most recent version of 0 A.D. Empires Ascendant today!**
 
 ---
-**Last updated:** 2026-11-13 00:48:17 UTC
+**Last updated:** 2026-11-13 07:28:11 UTC
